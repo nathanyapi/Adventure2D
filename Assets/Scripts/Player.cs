@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 using System.Collections;
 using UnityEngine.UI;
 
-public class Player : MovingObject 
+public class Player : MonoBehaviour 
 {
 	public int wallDamage =1;
 	public int pointsPerFood = 10;
@@ -19,29 +19,49 @@ public class Player : MovingObject
 	public AudioClip drinkSound2;
 	public AudioClip gameOverSound;
 
+	private Rigidbody2D rb2D;
 	private Animator animator;
 	private int food;
 
 	private Vector2 touchOrigine = -Vector2.one;
 
+	public float walkSpeed = 7f;
+	public  float curSpeed;
+	public float maxSpeed;
+
 	// Use this for initialization
 	//Different implementation in player then in moving object
-	protected override void Start () 
+	void Start () 
 	{
+		rb2D = GetComponent<Rigidbody2D> ();
 		animator = GetComponent<Animator> ();
 		//GameManager stores info as change levels
 		food = GameManager.instance.playerFoodPoints;
 		foodText = GameObject.Find ("FoodText").GetComponent<Text> ();
 		foodText.text = "Food : " + food;
 		//Call the MovingObject start fonction
-		base.Start ();
+		//base.Start ();
+
+		//mouvement related
+		maxSpeed = walkSpeed + (walkSpeed / 2);
 	}
 
-	//called automatically when onject is disabled
+	//called automatically when object is disabled
 	private void OnDisable()
 	{
 		GameManager.instance.playerFoodPoints = food;
 	}
+
+	void FixedUpdate()
+	{
+		curSpeed = walkSpeed;
+		maxSpeed = curSpeed;
+
+		// Move senteces
+		rb2D.velocity = new Vector2(Mathf.Lerp(0, Input.GetAxis("Horizontal")* curSpeed, 0.8f),
+			Mathf.Lerp(0, Input.GetAxis("Vertical")* curSpeed, 0.8f));
+	}
+
 
 	// Update is called once per frame
 	void Update () 
@@ -57,14 +77,17 @@ public class Player : MovingObject
 
 		#if UNITY_STANDALONE || UNITY_WEBPLATER
 
-		//Keyboard or controller input
-		horizontal = (int)Input.GetAxisRaw ("Horizontal");
-		vertical = (int)Input.GetAxisRaw ("Vertical");
 
-		
-		if (horizontal != 0) {
-			vertical = 0;
-		}
+
+
+//		//Keyboard or controller input
+//		horizontal = (int)Input.GetAxisRaw ("Horizontal");
+//		vertical = (int)Input.GetAxisRaw ("Vertical");
+//
+//		
+//		if (horizontal != 0) {
+//			vertical = 0;
+//		}
 
 		#else
 		if(Input.touchCount >0)
@@ -91,76 +114,76 @@ public class Player : MovingObject
 
 		#endif
 
-		if (horizontal != 0 || vertical != 0) 
-		{
-			AttemptMove<Wall> (horizontal, vertical);
-		}
+//		if (horizontal != 0 || vertical != 0) 
+//		{
+//			AttemptMove<Wall> (horizontal, vertical);
+//		}
 	}
 
-	protected override void AttemptMove <T> ( int xDir, int yDir)
-	{
-		food--;
-		foodText.text = "Food : " + food;
-		base.AttemptMove<T> (xDir, yDir);
-
-		RaycastHit2D hit;
-		if(Move(xDir,yDir, out hit))
-		{
-			SoundManager.instance.RandomizeSfx (moveSound1, moveSound2);
-		}
-
-		CheckIfGameOver ();
-
-		GameManager.instance.playerTurn = false;
-	}
-
-	//what to do in case of collision with blocking object
-	protected override void OnCantMove <T> (T component)
-	{
-		Wall hitWall = component as Wall;
-		hitWall.DamageWall (wallDamage);
-		animator.SetTrigger ("PlayerChop");
-
-	}
-
-	//when player touches Exit
-	private void Restart()
-	{
-		SceneManager.LoadScene (SceneManager.GetActiveScene().name);
-		//Application.LoadLevel (Application.loadedLevel);
-	}
-
-	//On ennemy Hit 
-	public void LoseFood (int loss)
-	{
-		animator.SetTrigger ("PlayerHit");
-		food -= loss;
-		foodText.text = "-" + loss + " Food : " + food;
-		CheckIfGameOver ();
-	}
+//	protected override void AttemptMove <T> ( int xDir, int yDir)
+//	{
+//		food--;
+//		foodText.text = "Food : " + food;
+//		base.AttemptMove<T> (xDir, yDir);
+//
+//		RaycastHit2D hit;
+//		if(Move(xDir,yDir, out hit))
+//		{
+//			SoundManager.instance.RandomizeSfx (moveSound1, moveSound2);
+//		}
+//
+//		CheckIfGameOver ();
+//
+//		GameManager.instance.playerTurn = false;
+//	}
+//
+//	//what to do in case of collision with blocking object
+//	protected override void OnCantMove <T> (T component)
+//	{
+//		Wall hitWall = component as Wall;
+//		hitWall.DamageWall (wallDamage);
+//		animator.SetTrigger ("PlayerChop");
+//
+//	}
+//
+//	//when player touches Exit
+//	private void Restart()
+//	{
+//		SceneManager.LoadScene (SceneManager.GetActiveScene().name);
+//		//Application.LoadLevel (Application.loadedLevel);
+//	}
+//
+//	//On ennemy Hit 
+//	public void LoseFood (int loss)
+//	{
+//		animator.SetTrigger ("PlayerHit");
+//		food -= loss;
+//		foodText.text = "-" + loss + " Food : " + food;
+//		CheckIfGameOver ();
+//	}
 
 	//object collision manager
 	private void OnTriggerEnter2D (Collider2D other)
 	{
-		if (other.tag == "Exit") 
-		{
-			Invoke ("Restart", restartLevelDelay);
-			enabled = false;
-		}
-		else if (other.tag == "Food")
-		{
-			food += pointsPerFood;
-			foodText.text = "+" + pointsPerFood + " Food : " + food;
-			SoundManager.instance.RandomizeSfx (eatSound1, eatSound2);
-			other.gameObject.SetActive(false);
-		}
-		else if (other.tag == "Soda")
-		{
-			food += pointsPerSoda;
-			foodText.text = "+" + pointsPerSoda + " Food : " + food;
-			SoundManager.instance.RandomizeSfx (drinkSound1, drinkSound2);
-			other.gameObject.SetActive(false);
-		}
+//		if (other.tag == "Exit") 
+//		{
+//			Invoke ("Restart", restartLevelDelay);
+//			enabled = false;
+//		}
+//		else if (other.tag == "Food")
+//		{
+//			food += pointsPerFood;
+//			foodText.text = "+" + pointsPerFood + " Food : " + food;
+//			SoundManager.instance.RandomizeSfx (eatSound1, eatSound2);
+//			other.gameObject.SetActive(false);
+//		}
+//		else if (other.tag == "Soda")
+//		{
+//			food += pointsPerSoda;
+//			foodText.text = "+" + pointsPerSoda + " Food : " + food;
+//			SoundManager.instance.RandomizeSfx (drinkSound1, drinkSound2);
+//			other.gameObject.SetActive(false);
+//		}
 	}
 
 	private void CheckIfGameOver()

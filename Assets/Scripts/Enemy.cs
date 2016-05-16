@@ -56,7 +56,7 @@ public class Enemy : MovingObject {
 
 		animator.SetTrigger ("EnemyAttack");
 
-		hitPlayer.LoseFood (playerDamage);
+		//hitPlayer.LoseFood (playerDamage);
 
 		SoundManager.instance.RandomizeSfx (enemyAttack1, enemyAttack2);
 
