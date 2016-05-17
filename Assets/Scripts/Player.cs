@@ -25,9 +25,8 @@ public class Player : MonoBehaviour
 
 	private Vector2 touchOrigine = -Vector2.one;
 
-	public float walkSpeed = 7f;
-	public  float curSpeed;
-	public float maxSpeed;
+	public float baseSpeed = 7f;
+	private float modifiedSpeed;
 
 	// Use this for initialization
 	//Different implementation in player then in moving object
@@ -43,7 +42,7 @@ public class Player : MonoBehaviour
 		//base.Start ();
 
 		//mouvement related
-		maxSpeed = walkSpeed + (walkSpeed / 2);
+		modifiedSpeed = baseSpeed + (baseSpeed / 2);
 	}
 
 	//called automatically when object is disabled
@@ -54,12 +53,18 @@ public class Player : MonoBehaviour
 
 	void FixedUpdate()
 	{
-		curSpeed = walkSpeed;
-		maxSpeed = curSpeed;
+		float x, y;
+
+
+		#if UNITY_STANDALONE || UNITY_WEBPLATER
+		x = Input.GetAxis("Horizontal");
+		y = Input.GetAxis("Vertical");
+		#else
+		#endif
 
 		// Move senteces
-		rb2D.velocity = new Vector2(Mathf.Lerp(0, Input.GetAxis("Horizontal")* curSpeed, 0.8f),
-			Mathf.Lerp(0, Input.GetAxis("Vertical")* curSpeed, 0.8f));
+		rb2D.velocity = new Vector2(Mathf.Lerp(0, x * modifiedSpeed, 0.8f),
+									Mathf.Lerp(0, y * modifiedSpeed, 0.8f));
 	}
 
 
