@@ -19,21 +19,16 @@ public class Player : MonoBehaviour
 	public AudioClip drinkSound2;
 	public AudioClip gameOverSound;
 
-	private Rigidbody2D rb2D;
-	private Animator animator;
 	private int food;
 
 	private Vector2 touchOrigine = -Vector2.one;
 
-	public float baseSpeed = 7f;
-	private float modifiedSpeed;
 
 	// Use this for initialization
 	//Different implementation in player then in moving object
 	void Start () 
 	{
-		rb2D = GetComponent<Rigidbody2D> ();
-		animator = GetComponent<Animator> ();
+
 		//GameManager stores info as change levels
 		food = GameManager.instance.playerFoodPoints;
 		foodText = GameObject.Find ("FoodText").GetComponent<Text> ();
@@ -41,8 +36,6 @@ public class Player : MonoBehaviour
 		//Call the MovingObject start fonction
 		//base.Start ();
 
-		//mouvement related
-		modifiedSpeed = baseSpeed + (baseSpeed / 2);
 	}
 
 	//called automatically when object is disabled
@@ -50,41 +43,25 @@ public class Player : MonoBehaviour
 	{
 		GameManager.instance.playerFoodPoints = food;
 	}
+		
 
-	void FixedUpdate()
-	{
-		float x, y;
-
-
-		#if UNITY_STANDALONE || UNITY_WEBPLATER
-		x = Input.GetAxis("Horizontal");
-		y = Input.GetAxis("Vertical");
-		#else
-		#endif
-
-		// Move senteces
-		rb2D.velocity = new Vector2(Mathf.Lerp(0, x * modifiedSpeed, 0.8f),
-									Mathf.Lerp(0, y * modifiedSpeed, 0.8f));
-	}
-
-
-	// Update is called once per frame
-	void Update () 
-	{
-		//turn based game (to be modified :P)
-		if (!GameManager.instance.playerTurn)
-		{
-			return;
-		}
-
-		int horizontal = 0;
-		int vertical = 0;
-
-		#if UNITY_STANDALONE || UNITY_WEBPLATER
-
-
-
-
+//	// Update is called once per frame
+//	void Update () 
+//	{
+//		//turn based game (to be modified :P)
+//		if (!GameManager.instance.playerTurn)
+//		{
+//			return;
+//		}
+//
+//		int horizontal = 0;
+//		int vertical = 0;
+//
+//		#if UNITY_STANDALONE || UNITY_WEBPLATER
+//
+//
+//
+//
 //		//Keyboard or controller input
 //		horizontal = (int)Input.GetAxisRaw ("Horizontal");
 //		vertical = (int)Input.GetAxisRaw ("Vertical");
@@ -93,37 +70,37 @@ public class Player : MonoBehaviour
 //		if (horizontal != 0) {
 //			vertical = 0;
 //		}
-
-		#else
-		if(Input.touchCount >0)
-		{
-			Touch myTouch = Input.touches[0];
-
-			if(myTouch.phase == TouchPhase.Began)
-			{
-				touchOrigine = myTouch.position;
-			}
-			else if(myTouch.phase == TouchPhase.Ended && touchOrigine.x >= 0)
-			{
-				Vector2 touchEnd = myTouch.position;
-				float x = touchEnd.x - touchOrigine.x;
-				float y = touchEnd.y - touchOrigine.y;
-				touchOrigine.x =-1;
-
-				if(Mathf.Abs(x) > Mathf.Abs(y))
-					horizontal = x>0 ? 1 : -1;
-				else
-					vertical = y>0 ? 1: -1;
-			}
-		}
-
-		#endif
-
+//
+//		#else
+//		if(Input.touchCount >0)
+//		{
+//			Touch myTouch = Input.touches[0];
+//
+//			if(myTouch.phase == TouchPhase.Began)
+//			{
+//				touchOrigine = myTouch.position;
+//			}
+//			else if(myTouch.phase == TouchPhase.Ended && touchOrigine.x >= 0)
+//			{
+//				Vector2 touchEnd = myTouch.position;
+//				float x = touchEnd.x - touchOrigine.x;
+//				float y = touchEnd.y - touchOrigine.y;
+//				touchOrigine.x =-1;
+//
+//				if(Mathf.Abs(x) > Mathf.Abs(y))
+//					horizontal = x>0 ? 1 : -1;
+//				else
+//					vertical = y>0 ? 1: -1;
+//			}
+//		}
+//
+//		#endif
+//
 //		if (horizontal != 0 || vertical != 0) 
 //		{
 //			AttemptMove<Wall> (horizontal, vertical);
 //		}
-	}
+//	}
 
 //	protected override void AttemptMove <T> ( int xDir, int yDir)
 //	{
