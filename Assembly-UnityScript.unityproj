@@ -57,7 +57,6 @@
      <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_DemoPlaySound.js" />
      <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_OpenOtherScene.js" />
      <None Include="Assets\Fonts\OFL.txt" />
-     <None Include="Assets\Elementals\Readme.txt" />
      <None Include="Assets\GUI Animator\GUI Animator FREE\Readme.txt" />
      <None Include="Assets\GE Common Assets\Readme.txt" />
      <None Include="Assets\GUI Animator\GUI Animator FREE\!How to.txt" />

@@ -2,7 +2,10 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerMouvement.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerMouvement.cs" Line="45" Column="10" />
+      <File FileName="Assets\Scripts\PlayerMouvement.cs" Line="55" Column="26" />
+      <File FileName="Assets\Scripts\Sword_basic.cs" Line="4" Column="25" />
+      <File FileName="Assets\Scripts\Projectile_Linear_mvt.cs" Line="26" Column="23" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="51" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
