@@ -1,0 +1,3480 @@
+fileFormatVersion: 2
+guid: 20ad1d2afd3e0dc408b2cb6aee6fa2a4
+timeCreated: 1463789288
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gi7xC25_0
+    21300002: gi7xC25_1
+    21300004: gi7xC25_2
+    21300006: gi7xC25_3
+    21300008: gi7xC25_4
+    21300010: gi7xC25_5
+    21300012: gi7xC25_6
+    21300014: gi7xC25_7
+    21300016: gi7xC25_8
+    21300018: gi7xC25_9
+    21300020: gi7xC25_10
+    21300022: gi7xC25_11
+    21300024: gi7xC25_12
+    21300026: gi7xC25_13
+    21300028: gi7xC25_14
+    21300030: gi7xC25_15
+    21300032: gi7xC25_16
+    21300034: gi7xC25_17
+    21300036: gi7xC25_18
+    21300038: gi7xC25_19
+    21300040: gi7xC25_20
+    21300042: gi7xC25_21
+    21300044: gi7xC25_22
+    21300046: gi7xC25_23
+    21300048: gi7xC25_24
+    21300050: gi7xC25_25
+    21300052: gi7xC25_26
+    21300054: gi7xC25_27
+    21300056: gi7xC25_28
+    21300058: gi7xC25_29
+    21300060: gi7xC25_30
+    21300062: gi7xC25_31
+    21300064: gi7xC25_32
+    21300066: gi7xC25_33
+    21300068: gi7xC25_34
+    21300070: gi7xC25_35
+    21300072: gi7xC25_36
+    21300074: gi7xC25_37
+    21300076: gi7xC25_38
+    21300078: gi7xC25_39
+    21300080: gi7xC25_40
+    21300082: gi7xC25_41
+    21300084: gi7xC25_42
+    21300086: gi7xC25_43
+    21300088: gi7xC25_44
+    21300090: gi7xC25_45
+    21300092: gi7xC25_46
+    21300094: gi7xC25_47
+    21300096: gi7xC25_48
+    21300098: gi7xC25_49
+    21300100: gi7xC25_50
+    21300102: gi7xC25_51
+    21300104: gi7xC25_52
+    21300106: gi7xC25_53
+    21300108: gi7xC25_54
+    21300110: gi7xC25_55
+    21300112: gi7xC25_56
+    21300114: gi7xC25_57
+    21300116: gi7xC25_58
+    21300118: gi7xC25_59
+    21300120: gi7xC25_60
+    21300122: gi7xC25_61
+    21300124: gi7xC25_62
+    21300126: gi7xC25_63
+    21300128: gi7xC25_64
+    21300130: gi7xC25_65
+    21300132: gi7xC25_66
+    21300134: gi7xC25_67
+    21300136: gi7xC25_68
+    21300138: gi7xC25_69
+    21300140: gi7xC25_70
+    21300142: gi7xC25_71
+    21300144: gi7xC25_72
+    21300146: gi7xC25_73
+    21300148: gi7xC25_74
+    21300150: gi7xC25_75
+    21300152: gi7xC25_76
+    21300154: gi7xC25_77
+    21300156: gi7xC25_78
+    21300158: gi7xC25_79
+    21300160: gi7xC25_80
+    21300162: gi7xC25_81
+    21300164: gi7xC25_82
+    21300166: gi7xC25_83
+    21300168: gi7xC25_84
+    21300170: gi7xC25_85
+    21300172: gi7xC25_86
+    21300174: gi7xC25_87
+    21300176: gi7xC25_88
+    21300178: gi7xC25_89
+    21300180: gi7xC25_90
+    21300182: gi7xC25_91
+    21300184: gi7xC25_92
+    21300186: gi7xC25_93
+    21300188: gi7xC25_94
+    21300190: gi7xC25_95
+    21300192: gi7xC25_96
+    21300194: gi7xC25_97
+    21300196: gi7xC25_98
+    21300198: gi7xC25_99
+    21300200: gi7xC25_100
+    21300202: gi7xC25_101
+    21300204: gi7xC25_102
+    21300206: gi7xC25_103
+    21300208: gi7xC25_104
+    21300210: gi7xC25_105
+    21300212: gi7xC25_106
+    21300214: gi7xC25_107
+    21300216: gi7xC25_108
+    21300218: gi7xC25_109
+    21300220: gi7xC25_110
+    21300222: gi7xC25_111
+    21300224: gi7xC25_112
+    21300226: gi7xC25_113
+    21300228: gi7xC25_114
+    21300230: gi7xC25_115
+    21300232: gi7xC25_116
+    21300234: gi7xC25_117
+    21300236: gi7xC25_118
+    21300238: gi7xC25_119
+    21300240: gi7xC25_120
+    21300242: gi7xC25_121
+    21300244: gi7xC25_122
+    21300246: gi7xC25_123
+    21300248: gi7xC25_124
+    21300250: gi7xC25_125
+    21300252: gi7xC25_126
+    21300254: gi7xC25_127
+    21300256: gi7xC25_128
+    21300258: gi7xC25_129
+    21300260: gi7xC25_130
+    21300262: gi7xC25_131
+    21300264: gi7xC25_132
+    21300266: gi7xC25_133
+    21300268: gi7xC25_134
+    21300270: gi7xC25_135
+    21300272: gi7xC25_136
+    21300274: gi7xC25_137
+    21300276: gi7xC25_138
+    21300278: gi7xC25_139
+    21300280: gi7xC25_140
+    21300282: gi7xC25_141
+    21300284: gi7xC25_142
+    21300286: gi7xC25_143
+    21300288: gi7xC25_144
+    21300290: gi7xC25_145
+    21300292: gi7xC25_146
+    21300294: gi7xC25_147
+    21300296: gi7xC25_148
+    21300298: gi7xC25_149
+    21300300: gi7xC25_150
+    21300302: gi7xC25_151
+    21300304: gi7xC25_152
+    21300306: gi7xC25_153
+    21300308: gi7xC25_154
+    21300310: gi7xC25_155
+    21300312: gi7xC25_156
+    21300314: gi7xC25_157
+    21300316: gi7xC25_158
+    21300318: gi7xC25_159
+    21300320: gi7xC25_160
+    21300322: gi7xC25_161
+    21300324: gi7xC25_162
+    21300326: gi7xC25_163
+    21300328: gi7xC25_164
+    21300330: gi7xC25_165
+    21300332: gi7xC25_166
+    21300334: gi7xC25_167
+    21300336: gi7xC25_168
+    21300338: gi7xC25_169
+    21300340: gi7xC25_170
+    21300342: gi7xC25_171
+    21300344: gi7xC25_172
+    21300346: gi7xC25_173
+    21300348: gi7xC25_174
+    21300350: gi7xC25_175
+    21300352: gi7xC25_176
+    21300354: gi7xC25_177
+    21300356: gi7xC25_178
+    21300358: gi7xC25_179
+    21300360: gi7xC25_180
+    21300362: gi7xC25_181
+    21300364: gi7xC25_182
+    21300366: gi7xC25_183
+    21300368: gi7xC25_184
+    21300370: gi7xC25_185
+    21300372: gi7xC25_186
+    21300374: gi7xC25_187
+    21300376: gi7xC25_188
+    21300378: gi7xC25_189
+    21300380: gi7xC25_190
+    21300382: gi7xC25_191
+    21300384: gi7xC25_192
+    21300386: gi7xC25_193
+    21300388: gi7xC25_194
+    21300390: gi7xC25_195
+    21300392: gi7xC25_196
+    21300394: gi7xC25_197
+    21300396: gi7xC25_198
+    21300398: gi7xC25_199
+    21300400: gi7xC25_200
+    21300402: gi7xC25_201
+    21300404: gi7xC25_202
+    21300406: gi7xC25_203
+    21300408: gi7xC25_204
+    21300410: gi7xC25_205
+    21300412: gi7xC25_206
+    21300414: gi7xC25_207
+    21300416: gi7xC25_208
+    21300418: gi7xC25_209
+    21300420: gi7xC25_210
+    21300422: gi7xC25_211
+    21300424: gi7xC25_212
+    21300426: gi7xC25_213
+    21300428: gi7xC25_214
+    21300430: gi7xC25_215
+    21300432: gi7xC25_216
+    21300434: gi7xC25_217
+    21300436: gi7xC25_218
+    21300438: gi7xC25_219
+    21300440: gi7xC25_220
+    21300442: gi7xC25_221
+    21300444: gi7xC25_222
+    21300446: gi7xC25_223
+    21300448: gi7xC25_224
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gi7xC25_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 906
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 24}
+        - {x: -24, y: -16}
+        - {x: -24, y: -24}
+        - {x: -1, y: -24}
+        - {x: 24, y: 15}
+        - {x: 24, y: 24}
+    - name: gi7xC25_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 908
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 22}
+        - {x: -23, y: 0}
+        - {x: -23, y: -22}
+        - {x: -6, y: -22}
+        - {x: 23, y: -12}
+        - {x: 23, y: 2}
+        - {x: 7, y: 22}
+    - name: gi7xC25_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 908
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 21}
+        - {x: -4, y: 19}
+        - {x: -4, y: 15}
+        - {x: -22, y: -14}
+        - {x: -22, y: -21}
+        - {x: -1, y: -21}
+        - {x: 22, y: -15}
+        - {x: 22, y: 5}
+        - {x: 6, y: 21}
+    - name: gi7xC25_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 920
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 912
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 910
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 918
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 908
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 23}
+        - {x: -23, y: -15}
+        - {x: -23, y: -23}
+        - {x: -12, y: -23}
+        - {x: 17, y: -9}
+        - {x: 23, y: 6}
+        - {x: 23, y: 23}
+    - name: gi7xC25_8
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 916
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_9
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 916
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_10
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 912
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_11
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 918
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_12
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 910
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 21}
+        - {x: -4, y: 19}
+        - {x: -4, y: 15}
+        - {x: -22, y: -14}
+        - {x: -22, y: -21}
+        - {x: -1, y: -21}
+        - {x: 22, y: -15}
+        - {x: 22, y: 5}
+        - {x: 6, y: 21}
+    - name: gi7xC25_13
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 908
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 23}
+        - {x: -19, y: 17}
+        - {x: -19, y: -5}
+        - {x: -5, y: -23}
+        - {x: 18, y: -23}
+        - {x: 19, y: -21}
+        - {x: 19, y: 18}
+        - {x: 16, y: 23}
+    - name: gi7xC25_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 846
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -21, y: -10}
+        - {x: -21, y: -24}
+        - {x: -5, y: -24}
+        - {x: 21, y: 4}
+        - {x: 21, y: 24}
+    - name: gi7xC25_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 852
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 17}
+        - {x: -22, y: -1}
+        - {x: -22, y: -17}
+        - {x: 8, y: -17}
+        - {x: 19, y: -15}
+        - {x: 22, y: -13}
+        - {x: 22, y: 8}
+        - {x: 18, y: 17}
+    - name: gi7xC25_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 850
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -11, y: 2}
+        - {x: -8, y: 1}
+        - {x: -20, y: -13}
+        - {x: -20, y: -19}
+        - {x: -2, y: -19}
+        - {x: 20, y: -11}
+        - {x: 20, y: 13}
+        - {x: 18, y: 18}
+        - {x: 16, y: 19}
+        - {x: -6, y: 19}
+    - name: gi7xC25_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 848
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 854
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 854
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -17, y: 16}
+        - {x: -17, y: -15}
+        - {x: -16, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 17}
+    - name: gi7xC25_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 858
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 846
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 25}
+        - {x: -24, y: -5}
+        - {x: -24, y: -25}
+        - {x: -15, y: -25}
+        - {x: 24, y: -6}
+        - {x: 24, y: 25}
+    - name: gi7xC25_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 858
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 856
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_24
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 854
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_25
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 860
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 850
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -11, y: 2}
+        - {x: -8, y: 1}
+        - {x: -20, y: -13}
+        - {x: -20, y: -19}
+        - {x: -2, y: -19}
+        - {x: 20, y: -11}
+        - {x: 20, y: 13}
+        - {x: 18, y: 18}
+        - {x: 16, y: 19}
+        - {x: -6, y: 19}
+    - name: gi7xC25_27
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 846
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 786
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -1}
+        - {x: -24, y: -24}
+        - {x: 1, y: -24}
+        - {x: 24, y: 6}
+        - {x: 24, y: 24}
+        - {x: 10, y: 24}
+        - {x: -5, y: 18}
+    - name: gi7xC25_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 794
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -7, y: 11}
+        - {x: -2, y: 8}
+        - {x: -16, y: -9}
+        - {x: -16, y: -16}
+        - {x: 6, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: gi7xC25_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 794
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: 11, y: -10}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+    - name: gi7xC25_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 792
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 794
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -5}
+        - {x: -10, y: -15}
+        - {x: -6, y: -12}
+        - {x: 4, y: -2}
+        - {x: 4, y: 0}
+        - {x: 6, y: -2}
+        - {x: -4, y: -12}
+        - {x: -4, y: -15}
+        - {x: -3, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 16}
+    - name: gi7xC25_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 794
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 798
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_35
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 784
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -5}
+        - {x: -26, y: -19}
+        - {x: -26, y: -26}
+        - {x: -17, y: -26}
+        - {x: 5, y: -17}
+        - {x: 26, y: 10}
+        - {x: 26, y: 26}
+        - {x: 11, y: 26}
+        - {x: -5, y: 21}
+    - name: gi7xC25_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 796
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_37
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 798
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_38
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 796
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_39
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 798
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_40
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 794
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: 11, y: -10}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+    - name: gi7xC25_41
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 790
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_42
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 794
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_43
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 726
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 24}
+        - {x: -18, y: -7}
+        - {x: -21, y: -16}
+        - {x: -21, y: -24}
+        - {x: -11, y: -24}
+        - {x: -4, y: -21}
+        - {x: 21, y: 8}
+        - {x: 21, y: 24}
+    - name: gi7xC25_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 730
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -9, y: 9}
+        - {x: -19, y: -11}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 16}
+        - {x: 16, y: 18}
+        - {x: 13, y: 19}
+    - name: gi7xC25_45
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 728
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -13, y: 18}
+        - {x: -11, y: 3}
+        - {x: -7, y: -1}
+        - {x: -19, y: -15}
+        - {x: -19, y: -21}
+        - {x: -9, y: -21}
+        - {x: 16, y: -11}
+        - {x: 19, y: -8}
+        - {x: 19, y: 7}
+        - {x: 16, y: 21}
+    - name: gi7xC25_46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 734
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_47
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -12}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 8}
+        - {x: 8, y: 16}
+    - name: gi7xC25_48
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 734
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 17}
+        - {x: -8, y: 17}
+        - {x: -13, y: 12}
+        - {x: -17, y: 7}
+        - {x: -17, y: -7}
+        - {x: -14, y: -15}
+        - {x: -9, y: -17}
+        - {x: 6, y: -17}
+        - {x: 13, y: -15}
+        - {x: 17, y: -7}
+        - {x: 17, y: 14}
+    - name: gi7xC25_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 738
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_50
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 728
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 22}
+        - {x: -22, y: -8}
+        - {x: -22, y: -22}
+        - {x: -14, y: -22}
+        - {x: 22, y: 5}
+        - {x: 22, y: 22}
+    - name: gi7xC25_51
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 740
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_52
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 744
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_53
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 736
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_54
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 736
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_55
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 730
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -13, y: 18}
+        - {x: -11, y: 3}
+        - {x: -7, y: -1}
+        - {x: -19, y: -15}
+        - {x: -19, y: -21}
+        - {x: -9, y: -21}
+        - {x: 16, y: -11}
+        - {x: 19, y: -8}
+        - {x: 19, y: 7}
+        - {x: 16, y: 21}
+    - name: gi7xC25_56
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 726
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_57
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 734
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_58
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 744
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_59
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 674
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -16}
+        - {x: 1, y: -16}
+        - {x: 6, y: -13}
+        - {x: 16, y: 6}
+        - {x: 16, y: 16}
+    - name: gi7xC25_60
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 674
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 15}
+        - {x: -11, y: 4}
+        - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: -8, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: gi7xC25_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 674
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: -7, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 14}
+        - {x: 14, y: 16}
+    - name: gi7xC25_62
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 670
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_63
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 674
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -12}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 8}
+        - {x: 8, y: 16}
+    - name: gi7xC25_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 672
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_65
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 680
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_66
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 674
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -16, y: -7}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: 16, y: -1}
+        - {x: 16, y: 16}
+    - name: gi7xC25_67
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 682
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_68
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 674
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -16, y: -7}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: 16, y: -1}
+        - {x: 16, y: 16}
+    - name: gi7xC25_69
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 674
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_70
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 680
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_71
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 674
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -1, y: 15}
+        - {x: -16, y: -9}
+        - {x: -16, y: -16}
+        - {x: -8, y: -16}
+        - {x: 15, y: -1}
+        - {x: 16, y: 0}
+        - {x: 16, y: 16}
+    - name: gi7xC25_72
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 666
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_73
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 674
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_74
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 614
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 5, y: -16}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+        - {x: -7, y: 16}
+        - {x: -16, y: 14}
+    - name: gi7xC25_75
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 622
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 614
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: 11, y: -10}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+    - name: gi7xC25_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 620
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_78
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 612
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_79
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 614
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -12}
+        - {x: -10, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 12}
+        - {x: 10, y: 16}
+    - name: gi7xC25_80
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 622
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 612
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 19}
+        - {x: -19, y: -12}
+        - {x: -19, y: -19}
+        - {x: -11, y: -19}
+        - {x: 17, y: 3}
+        - {x: 19, y: 9}
+        - {x: 19, y: 19}
+    - name: gi7xC25_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 620
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_83
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 618
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_84
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 612
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_85
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 618
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_86
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 614
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: 11, y: -10}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+    - name: gi7xC25_87
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 606
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_88
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 624
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_89
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 5, y: -16}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+        - {x: -7, y: 16}
+        - {x: -16, y: 14}
+    - name: gi7xC25_90
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: -9, y: -16}
+        - {x: 14, y: -6}
+        - {x: 16, y: -5}
+        - {x: 16, y: 16}
+    - name: gi7xC25_91
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 554
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_92
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 554
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 554
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_94
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 554
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_95
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 558
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_96
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 552
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 18}
+        - {x: -18, y: -8}
+        - {x: -18, y: -18}
+        - {x: -7, y: -18}
+        - {x: 18, y: -5}
+        - {x: 18, y: 18}
+    - name: gi7xC25_97
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 562
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_98
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 552
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -11}
+        - {x: -18, y: -18}
+        - {x: -6, y: -18}
+        - {x: 18, y: -7}
+        - {x: 18, y: 18}
+        - {x: -1, y: 18}
+    - name: gi7xC25_99
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 554
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_100
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 560
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_101
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16}
+        - {x: -1, y: 16}
+        - {x: -10, y: 12}
+        - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: -9, y: -16}
+        - {x: 12, y: -7}
+        - {x: 16, y: 1}
+        - {x: 16, y: 15}
+    - name: gi7xC25_102
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 548
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_103
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 554
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_104
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 564
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_105
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -16, y: 1}
+        - {x: -16, y: -16}
+        - {x: 4, y: -16}
+        - {x: 16, y: 3}
+        - {x: 16, y: 16}
+    - name: gi7xC25_106
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 13}
+        - {x: -16, y: -6}
+        - {x: -16, y: -16}
+        - {x: -6, y: -16}
+        - {x: 16, y: -8}
+        - {x: 16, y: 16}
+    - name: gi7xC25_107
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 494
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -17, y: 7}
+        - {x: -17, y: -17}
+        - {x: 3, y: -17}
+        - {x: 17, y: -9}
+        - {x: 17, y: 17}
+    - name: gi7xC25_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 490
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_109
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -16, y: 7}
+        - {x: -16, y: -13}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 14}
+        - {x: 10, y: 16}
+    - name: gi7xC25_110
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 494
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -17, y: 15}
+        - {x: -17, y: -10}
+        - {x: -10, y: -17}
+        - {x: 10, y: -17}
+        - {x: 17, y: -10}
+        - {x: 17, y: 12}
+        - {x: 15, y: 17}
+    - name: gi7xC25_111
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 498
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_112
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 490
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 20}
+        - {x: -20, y: -4}
+        - {x: -20, y: -20}
+        - {x: -4, y: -20}
+        - {x: 16, y: -11}
+        - {x: 20, y: 5}
+        - {x: 20, y: 20}
+    - name: gi7xC25_113
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 494
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: -17, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 17}
+    - name: gi7xC25_114
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 490
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 20}
+        - {x: -20, y: -4}
+        - {x: -20, y: -20}
+        - {x: -4, y: -20}
+        - {x: 16, y: -11}
+        - {x: 20, y: 5}
+        - {x: 20, y: 20}
+    - name: gi7xC25_115
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 494
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_116
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 498
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_117
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 494
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -17, y: 7}
+        - {x: -17, y: -17}
+        - {x: 3, y: -17}
+        - {x: 17, y: -9}
+        - {x: 17, y: 17}
+    - name: gi7xC25_118
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 486
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -12, y: 23}
+        - {x: -17, y: 15}
+        - {x: -17, y: -19}
+        - {x: -16, y: -24}
+        - {x: 17, y: -24}
+        - {x: 17, y: 18}
+        - {x: 10, y: 24}
+    - name: gi7xC25_119
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 492
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_120
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 5, y: -16}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+        - {x: -7, y: 16}
+        - {x: -16, y: 14}
+    - name: gi7xC25_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: -9, y: -16}
+        - {x: 14, y: -6}
+        - {x: 16, y: -5}
+        - {x: 16, y: 16}
+    - name: gi7xC25_122
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 436
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_123
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 434
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 434
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_125
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 434
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 438
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_127
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 18}
+        - {x: -18, y: -7}
+        - {x: -18, y: -18}
+        - {x: -7, y: -18}
+        - {x: 17, y: -7}
+        - {x: 18, y: 2}
+        - {x: 18, y: 18}
+    - name: gi7xC25_128
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 442
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_129
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 18}
+        - {x: -18, y: -10}
+        - {x: -18, y: -18}
+        - {x: -11, y: -18}
+        - {x: 14, y: -2}
+        - {x: 18, y: 8}
+        - {x: 18, y: 18}
+    - name: gi7xC25_130
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 434
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_131
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 440
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_132
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16}
+        - {x: -1, y: 16}
+        - {x: -10, y: 12}
+        - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: -9, y: -16}
+        - {x: 12, y: -7}
+        - {x: 16, y: 1}
+        - {x: 16, y: 15}
+    - name: gi7xC25_133
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 428
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_134
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 366
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: -22, y: -2}
+        - {x: -22, y: -24}
+        - {x: -2, y: -24}
+        - {x: 4, y: -18}
+        - {x: 22, y: 6}
+        - {x: 22, y: 24}
+    - name: gi7xC25_135
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 366
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 23}
+        - {x: 10, y: 24}
+        - {x: -20, y: 24}
+        - {x: -24, y: -10}
+        - {x: -24, y: -24}
+        - {x: -13, y: -24}
+        - {x: 24, y: -18}
+        - {x: 24, y: 5}
+        - {x: 22, y: 19}
+    - name: gi7xC25_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 366
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 18}
+        - {x: 14, y: 22}
+        - {x: 12, y: 24}
+        - {x: -4, y: 24}
+        - {x: -12, y: 16}
+        - {x: -12, y: 4}
+        - {x: -8, y: 0}
+        - {x: -22, y: -17}
+        - {x: -22, y: -24}
+        - {x: -14, y: -24}
+        - {x: 10, y: -14}
+        - {x: 22, y: -7}
+        - {x: 22, y: 8}
+    - name: gi7xC25_137
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 366
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_138
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 380
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_139
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 368
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_140
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 378
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_141
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 26}
+        - {x: -19, y: 4}
+        - {x: -26, y: -17}
+        - {x: -26, y: -26}
+        - {x: -9, y: -26}
+        - {x: 26, y: 5}
+        - {x: 26, y: 26}
+    - name: gi7xC25_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 378
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_143
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 376
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_144
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 378
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_145
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 380
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_146
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 366
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 18}
+        - {x: 14, y: 22}
+        - {x: 12, y: 24}
+        - {x: -4, y: 24}
+        - {x: -12, y: 16}
+        - {x: -12, y: 4}
+        - {x: -8, y: 0}
+        - {x: -22, y: -17}
+        - {x: -22, y: -24}
+        - {x: -14, y: -24}
+        - {x: 10, y: -14}
+        - {x: 22, y: -7}
+        - {x: 22, y: 8}
+    - name: gi7xC25_147
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 368
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_148
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 308
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -23}
+        - {x: 8, y: -23}
+        - {x: 20, y: -7}
+        - {x: 20, y: 23}
+        - {x: -14, y: 23}
+        - {x: -20, y: 22}
+    - name: gi7xC25_149
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 314
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -11, y: 16}
+        - {x: -18, y: -2}
+        - {x: -18, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 5}
+        - {x: 11, y: 14}
+    - name: gi7xC25_150
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 320
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_151
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 314
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: -17, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 17}
+    - name: gi7xC25_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 314
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_153
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 312
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_154
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 318
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_155
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 308
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 23}
+        - {x: -22, y: 4}
+        - {x: -22, y: -23}
+        - {x: -11, y: -23}
+        - {x: 22, y: -3}
+        - {x: 22, y: 23}
+    - name: gi7xC25_156
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 320
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_157
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 318
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_158
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 324
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_159
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 316
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_160
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 314
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -11, y: 16}
+        - {x: -18, y: -2}
+        - {x: -18, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 5}
+        - {x: 11, y: 14}
+    - name: gi7xC25_161
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 306
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_162
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 314
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: -17, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 17}
+    - name: gi7xC25_163
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 306
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_164
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 310
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_165
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 314
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_166
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 246
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 24}
+        - {x: -23, y: -11}
+        - {x: -23, y: -24}
+        - {x: -3, y: -24}
+        - {x: 9, y: -22}
+        - {x: 23, y: 7}
+        - {x: 23, y: 24}
+    - name: gi7xC25_167
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 262
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_168
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 264
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_169
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 260
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_170
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 252
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_171
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 17}
+        - {x: 9, y: 18}
+        - {x: -16, y: 18}
+        - {x: -17, y: 17}
+        - {x: -18, y: 9}
+        - {x: -18, y: -15}
+        - {x: -16, y: -16}
+        - {x: -8, y: -18}
+        - {x: 16, y: -18}
+        - {x: 17, y: -17}
+        - {x: 18, y: -9}
+        - {x: 18, y: 16}
+    - name: gi7xC25_172
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 260
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_173
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 248
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 22}
+        - {x: -11, y: 14}
+        - {x: -21, y: -12}
+        - {x: -21, y: -22}
+        - {x: -12, y: -22}
+        - {x: 17, y: -7}
+        - {x: 21, y: 9}
+        - {x: 21, y: 22}
+    - name: gi7xC25_174
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 260
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_175
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 256
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_176
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -18, y: 16}
+        - {x: -18, y: -1}
+        - {x: -17, y: -3}
+        - {x: -12, y: -3}
+        - {x: -10, y: -2}
+        - {x: -6, y: 2}
+        - {x: -11, y: -5}
+        - {x: -13, y: -16}
+        - {x: -5, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -16}
+        - {x: 18, y: 6}
+        - {x: 9, y: 18}
+    - name: gi7xC25_177
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 254
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_178
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16}
+        - {x: -5, y: 16}
+        - {x: -10, y: 14}
+        - {x: -16, y: -7}
+        - {x: -16, y: -16}
+        - {x: -8, y: -16}
+        - {x: 14, y: -8}
+        - {x: 16, y: -3}
+        - {x: 16, y: 13}
+    - name: gi7xC25_179
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 248
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_180
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 186
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -1, y: -24}
+        - {x: 24, y: 4}
+        - {x: 24, y: 24}
+        - {x: 9, y: 24}
+        - {x: -24, y: 8}
+    - name: gi7xC25_181
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 186
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -14, y: 20}
+        - {x: -24, y: -15}
+        - {x: -24, y: -24}
+        - {x: -12, y: -24}
+        - {x: 24, y: -19}
+        - {x: 24, y: 11}
+        - {x: 21, y: 24}
+    - name: gi7xC25_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 188
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 22}
+        - {x: -22, y: -10}
+        - {x: -22, y: -22}
+        - {x: -13, y: -22}
+        - {x: 16, y: -9}
+        - {x: 22, y: 2}
+        - {x: 22, y: 22}
+    - name: gi7xC25_183
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 200
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_184
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -5}
+        - {x: -10, y: -15}
+        - {x: -6, y: -12}
+        - {x: 4, y: -2}
+        - {x: 4, y: 0}
+        - {x: 6, y: -2}
+        - {x: -4, y: -12}
+        - {x: -4, y: -15}
+        - {x: -3, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 16}
+    - name: gi7xC25_185
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 194
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 17}
+        - {x: -8, y: 17}
+        - {x: -13, y: 12}
+        - {x: -17, y: 7}
+        - {x: -17, y: -7}
+        - {x: -14, y: -15}
+        - {x: -9, y: -17}
+        - {x: 6, y: -17}
+        - {x: 13, y: -15}
+        - {x: 17, y: -7}
+        - {x: 17, y: 14}
+    - name: gi7xC25_186
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 198
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_187
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 188
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 22}
+        - {x: -22, y: -10}
+        - {x: -22, y: -22}
+        - {x: -13, y: -22}
+        - {x: 16, y: -9}
+        - {x: 22, y: 2}
+        - {x: 22, y: 22}
+    - name: gi7xC25_188
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 202
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_189
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 196
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_190
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 196
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_191
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 198
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_192
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 186
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -14, y: 20}
+        - {x: -24, y: -15}
+        - {x: -24, y: -24}
+        - {x: -12, y: -24}
+        - {x: 24, y: -19}
+        - {x: 24, y: 11}
+        - {x: 21, y: 24}
+    - name: gi7xC25_193
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 188
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_194
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 188
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 22}
+        - {x: -18, y: 10}
+        - {x: -18, y: -13}
+        - {x: -12, y: -22}
+        - {x: 18, y: -22}
+        - {x: 18, y: 22}
+    - name: gi7xC25_195
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 126
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 24}
+        - {x: -24, y: 1}
+        - {x: -24, y: -24}
+        - {x: 1, y: -24}
+        - {x: 24, y: 9}
+        - {x: 24, y: 24}
+    - name: gi7xC25_196
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 142
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_197
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 144
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_198
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 140
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_199
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 132
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_200
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 130
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_201
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 136
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_202
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 128
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 22}
+        - {x: 5, y: 21}
+        - {x: -15, y: 4}
+        - {x: -22, y: -13}
+        - {x: -22, y: -22}
+        - {x: -14, y: -22}
+        - {x: 13, y: -1}
+        - {x: 22, y: 10}
+        - {x: 22, y: 22}
+    - name: gi7xC25_203
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 140
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_204
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 136
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_205
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 136
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_206
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 136
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_207
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 132
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -8, y: 16}
+        - {x: -21, y: -10}
+        - {x: -21, y: -19}
+        - {x: -8, y: -19}
+        - {x: 21, y: -6}
+        - {x: 21, y: 9}
+        - {x: 8, y: 19}
+    - name: gi7xC25_208
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 126
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25}
+        - {x: -16, y: -5}
+        - {x: -12, y: -25}
+        - {x: 16, y: -25}
+        - {x: 16, y: 16}
+        - {x: 2, y: 25}
+    - name: gi7xC25_209
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: 4, y: -24}
+        - {x: 24, y: 4}
+        - {x: 24, y: 24}
+        - {x: 1, y: 24}
+        - {x: -24, y: 14}
+    - name: gi7xC25_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 27}
+        - {x: -18, y: 9}
+        - {x: -27, y: -17}
+        - {x: -27, y: -27}
+        - {x: -16, y: -27}
+        - {x: 27, y: -12}
+        - {x: 27, y: 18}
+        - {x: 16, y: 27}
+    - name: gi7xC25_211
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 64
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 27}
+        - {x: -18, y: 9}
+        - {x: -27, y: -17}
+        - {x: -27, y: -27}
+        - {x: -16, y: -27}
+        - {x: 27, y: -12}
+        - {x: 27, y: 18}
+        - {x: 16, y: 27}
+    - name: gi7xC25_212
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 80
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_213
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 80
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_214
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -12}
+        - {x: -10, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 12}
+        - {x: 10, y: 16}
+    - name: gi7xC25_215
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 78
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_216
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 64
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 27}
+        - {x: -13, y: 13}
+        - {x: -27, y: -17}
+        - {x: -27, y: -27}
+        - {x: -14, y: -27}
+        - {x: 18, y: -15}
+        - {x: 26, y: 8}
+        - {x: 27, y: 13}
+        - {x: 27, y: 27}
+    - name: gi7xC25_217
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 78
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_218
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 72
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_219
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 74
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: -19, y: 14}
+        - {x: -19, y: -14}
+        - {x: -16, y: -17}
+        - {x: 18, y: -17}
+        - {x: 19, y: -16}
+        - {x: 19, y: 8}
+        - {x: 17, y: 15}
+        - {x: 15, y: 17}
+    - name: gi7xC25_220
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 78
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_221
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: -8, y: -16}
+        - {x: 12, y: -10}
+        - {x: 16, y: -7}
+        - {x: 16, y: 16}
+    - name: gi7xC25_222
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 68
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gi7xC25_223
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 68
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -18, y: 11}
+        - {x: -20, y: -1}
+        - {x: -20, y: -16}
+        - {x: -7, y: -22}
+        - {x: 20, y: -22}
+        - {x: 20, y: 18}
+        - {x: 14, y: 22}
+    - name: gi7xC25_224
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 4
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
